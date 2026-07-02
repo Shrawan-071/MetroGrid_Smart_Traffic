@@ -1,0 +1,6 @@
+{
+  "name": "Smart Traffic Management System",
+  "description": "An interactive, high-fidelity real-time simulation of urban traffic flows, featuring queue logic, safety gaps, realistic traffic signals, dynamic pedestrian behavior, and a detailed glassmorphic statistics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
